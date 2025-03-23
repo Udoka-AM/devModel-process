@@ -1,6 +1,6 @@
 # devModel-process
 
-## Solana Programing Model
+### Solana Programing Model
 
 - Network Interaction
 - Account Structure
