@@ -27,3 +27,11 @@
 - Pipelining
 - Cloudbreak
 - Archivers
+
+
+### Areas of Interest
+
+- ZK Compression
+- Cheap Mass Airdrop with ZKs
+- How Solana Works breakdown series
+- 
