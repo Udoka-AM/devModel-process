@@ -1,6 +1,6 @@
 # devModel-process
 
-#Solana Programing Model
+## Solana Programing Model
 
 - Network Interaction
 - Account Structure
@@ -9,4 +9,3 @@
 - Program Derived Accounts
 - Cross Program Invocation
 
-Tutorial Narrative for Solana developers
