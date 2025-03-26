@@ -2,7 +2,7 @@
 
 ### Solana Programing Model
 
-- Network Interaction
+- Network Interaction - https://x.com/Udoka_AM/status/1904996900002001069
 - Account Structure
 - Transaction Lifecycle
 - Transaction Structure
