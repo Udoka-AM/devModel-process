@@ -36,3 +36,4 @@
 - How Solana Works breakdown series
 - SIMD-228 breakdown
 - Solana Program Anatomy
+- Sybil Attacks and Stake-Weighted Quality of Service - SWQoS
