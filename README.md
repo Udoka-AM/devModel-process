@@ -4,7 +4,7 @@
 
 - Network Interaction - X: https://x.com/Udoka_AM/status/1904996900002001069 Youtube: soon
 - Account Structure
-- Transaction Lifecycle X: https://x.com/Udoka_AM/status/1905343463543242828
+- Transaction Lifecycle X: https://x.com/Udoka_AM/status/1905343463543242828 || https://x.com/Udoka_AM/status/1905303353120141392
 - Transaction Structure
 - Program Derived Accounts
 - Cross Program Invocation
