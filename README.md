@@ -31,7 +31,7 @@
 
 ### Areas of Interest
 
-- ZK Compression
+- ZK Compression | State Compression
 - Cheap Mass Airdrop with ZKs
 - How Solana Works breakdown series
 - SIMD-228 breakdown
