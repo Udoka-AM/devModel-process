@@ -37,3 +37,4 @@
 - SIMD-228 breakdown
 - Solana Program Anatomy
 - Sybil Attacks and Stake-Weighted Quality of Service - SWQoS
+- Account structures, ATA, security checks
