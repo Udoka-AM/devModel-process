@@ -39,7 +39,7 @@
 - Sybil Attacks and Stake-Weighted Quality of Service - SWQoS
 - Account structures, ATA, security checks
 
-April 12th Weekend video creation structure
+### April 12th Weekend video creation structure
 - Account Structure 
 - Transaction Lifecycle || Transaction Structure
 - Program Derived Addresses
