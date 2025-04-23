@@ -21,9 +21,9 @@
 
 - Proof of History
 - Tower BFT
-- Turbine
-- Gulf Stream
-- Sealevel
+- Turbine/
+- Gulf Stream/how does it work
+- Sealevel/
 - Pipelining
 - Cloudbreak
 - Archivers
